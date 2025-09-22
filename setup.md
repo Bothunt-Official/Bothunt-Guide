@@ -14,4 +14,4 @@ Authentication token is `null` by default. The backend ignores all events if no 
 
 ## Retries
 
-Each request is retried up to 10 times with exponential backoff of `2^N` seconds.
+Each request is retried up to 10 times with an exponential backoff of `2^N` seconds.
