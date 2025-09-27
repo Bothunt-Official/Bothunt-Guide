@@ -1,6 +1,6 @@
 # Upvotes
 
-Users can upvote a bot once every `12` hours. At the end of each month, any bot with more than 200 upvotes has its counter reset to 0.
+Users can upvote a bot once every `12` hours. At the end of each month, any bot with more than 500 upvotes has its counter reset to 0.
 
 ## Schema
 
