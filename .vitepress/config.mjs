@@ -40,7 +40,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', ariaLabel: 'Discord Server', link: 'https://bothunt.co/join/333749099897683980?user_id=466489412885282816' }
+      { icon: 'discord', ariaLabel: 'Discord Server', link: 'https://bothunt.co/join/333749099897683980/466489412885282816' }
     ]
   }
 })
