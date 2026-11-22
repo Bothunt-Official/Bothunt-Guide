@@ -34,7 +34,8 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Setup', link: '/setup' },
-          { text: 'Upvotes', link: '/upvotes' }
+          { text: 'Upvotes', link: '/upvotes' },
+          { text: 'Website Embedding', link: '/embedding' }
         ]
       }
     ],
